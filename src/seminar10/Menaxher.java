@@ -8,7 +8,6 @@ public class Menaxher extends Punonjes {
 		this.departament = departament;
 	}
 	
-//alt+shift+s+r per getters & setters
 	public String getDepartament() {
 		return departament;
 	}
